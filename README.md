@@ -1,0 +1,1 @@
+# Demo project for Spring AMQP using a polling approach
